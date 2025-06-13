@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "The Nobeli Lab Homepage"
+title                    : "Irilenia Nobeli"
 title_separator          : "-"
 name                     : &name "irilenia"
 description              : &description "Senior Lecturer in Bioinformatics"
