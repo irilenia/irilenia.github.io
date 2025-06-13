@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Irilenia Nobeli"
   pronouns         : # example: "she/her"  
-  bio              : "PI and Senior Lecturer"
+  bio              : "Senior Lecturer in Bioinformatics"
   location         : "London, UK"
   employer         : "Birkbeck, University of London"
   uri              : # URL
@@ -62,7 +62,7 @@ author:
   lastfm           : # Username
   linkedin         : "irilenia" # Username
   mastodon         : # URL
-  medium           : "irilenia" # URL
+  medium           : "@irilenia" # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
