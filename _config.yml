@@ -32,7 +32,7 @@ author:
   email            : "i.nobeli@bbk.ac.uk" 
 
   # Academic websites
-  academia         : "https://www.bbk.ac.uk/our-staff/profile/8009501/irene-nobeli" # URL
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.uk/citations?user=cg8P8ZYAAAAJ&hl=en"
   impactstory      : # URL
