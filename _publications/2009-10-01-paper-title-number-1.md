@@ -2,7 +2,7 @@
 title: "Visualisation of variable binding pockets on protein surfaces by probabilistic analysis of related structure sets."
 collection: publications
 category: manuscripts
-permalink: /publication/Ashford2012
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2012
 venue: 'BMC Bioinformatics'
