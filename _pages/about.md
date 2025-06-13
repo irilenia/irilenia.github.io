@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Nobeli Lab"
+title: "Irilenia Nobeli"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 
+Irilenia
+========
+I am a true science mongrel. My background is a mixture of Chemistry, Computer Science and Bioinformatics. When I'm not doing research, marking or filling in workload sheets, I spend time on things I'm usually not very good at (mostly running, mostly very slowly). 
+
+
+The Nobeli Lab
+==============
 The lab's expertise is in computational biology and cheminformatics. Current interests include regulatory RNAs, transcriptomics in health and disease, disorders of the brain and the role of small molecules in Biology.
 
 
