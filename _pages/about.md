@@ -18,5 +18,5 @@ The Nobeli Lab
 The lab's expertise is in computational biology and cheminformatics. Current interests include regulatory RNAs, transcriptomics in health and disease, neurodivergence and the role of small molecules in Biology.
 
 
-![image-center](/images/one_slide_summary_research.png){: .align-center}
+![image-center](/images/one_slide_research.png){: .align-center}
 
