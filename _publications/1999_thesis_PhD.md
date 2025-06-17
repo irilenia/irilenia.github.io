@@ -1,7 +1,7 @@
 ---
 title: "PhD thesis"
-collection: publications
-category: theses
+collection: 
+category: 
 permalink: /publication/1999_thesis_PhD
 excerpt: ''
 date: 1998-09-30
