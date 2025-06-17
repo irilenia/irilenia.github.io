@@ -1,7 +1,7 @@
 ---
 title: "MSc thesis"
-collection: publications
-category: theses
+collection: 
+category: 
 permalink: /publication/2003_thesis_MSc
 excerpt: ''
 date: 2003-09-30
