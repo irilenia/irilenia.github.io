@@ -1,5 +1,5 @@
 ---
-title: "Ashford et al. (2012)"
+title: "Visualisation of variable binding pockets on protein surfaces by probabilistic analysis of related structure sets"
 collection: publications
 category: manuscripts
 permalink: /publication/2012-Ashford-Visualisation
