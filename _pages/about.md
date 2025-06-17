@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ========
-I am a true science mongrel. My background is a mixture of Chemistry, Computer Science and Bioinformatics. When I'm not doing research, marking or filling in workload sheets, I spend time on things I'm usually not very good at (mostly running, mostly very slowly). 
+I am a true science mongrel. My background is a mixture of Chemistry, Computer Science and Bioinformatics. When I'm not doing research, marking or filling in workload sheets, I spend time on things I'm either too slow or lack talent for. 
 
 
 The Nobeli Lab
