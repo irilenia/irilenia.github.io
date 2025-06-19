@@ -10,7 +10,7 @@ layout: single
 title: "People"
 permalink: /people/
 feature_row:
-  - image_path: //images/IN.jpeg
+  - image_path: IN.jpeg
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
