@@ -42,8 +42,7 @@ feature_row:
 <li><font color="#009933"><b>Kavin Abelak</b></font>, Bloomsbury PhD student (2014-2018), first supervisor: <a href="http://www.bishopbailey.org/the-group.html">Dr Bishop-Bailey</a> at the Royal Vet College <br> </li>
 <li> <font color="#009933"><b>Jan Czarnecki </b></font>, BBSRC CASE PhD student (2010-2014; industrial sponsor: Unilever), first supervisor: Dr A. Shepherd - Text mining to facilitate metabolic pathway reconstructions. </li>
 <li><font color="#009933"><b>Anathe Patschull</b></font></li> 
-   <ul><li>WT rotation PhD student (autumn 2009) -Computational docking of small molecules to α1-antitrysin (with Dr Bibek Gooptu) <//li><li> WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li>
-   </ul>
+   <ul><li>WT rotation PhD student (autumn 2009) -Computational docking of small molecules to α1-antitrysin (with Dr Bibek Gooptu) <li> WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li></ul>
 <li><font color="#009933"><b>Paul Ashford</b></font>, BBSRC CASE PhD student, BBK (2008/2011) - industrial supervisor: Dr A. Alex (Pfizer Ltd), second academic supervisor: Dr Mark Williams </li>
 
 <h2>PhD rotations/others</h2>  
