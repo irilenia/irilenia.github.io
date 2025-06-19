@@ -41,7 +41,9 @@ feature_row:
 <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Part-time PhD student (2013-2019).  <br> </li>
 <li><font color="#009933"><b>Kavin Abelak</b></font>, Bloomsbury PhD student (2014-2018), first supervisor: <a href="http://www.bishopbailey.org/the-group.html">Dr Bishop-Bailey</a> at the Royal Vet College <br> </li>
 <li> <font color="#009933"><b>Jan Czarnecki </b></font>, BBSRC CASE PhD student (2010-2014; industrial sponsor: Unilever), first supervisor: Dr A. Shepherd - Text mining to facilitate metabolic pathway reconstructions. </li>
-<li><font color="#009933"><b>Anathe Patschull</b></font>, <ul><li>WT rotation PhD student (autumn 2009) -Computational docking of small molecules to α1-antitrysin (with Dr Bibek Gooptu) <//li><li> WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li></ul>
+<li><font color="#009933"><b>Anathe Patschull</b></font>, 
+   <ul><li>WT rotation PhD student (autumn 2009) -Computational docking of small molecules to α1-antitrysin (with Dr Bibek Gooptu) <//li><li> WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li>
+   </ul>
 <li><font color="#009933"><b>Paul Ashford</b></font>, BBSRC CASE PhD student, BBK (2008/2011) - industrial supervisor: Dr A. Alex (Pfizer Ltd), second academic supervisor: Dr Mark Williams </li>
 
 <h2>PhD rotations/others</h2>  
@@ -54,7 +56,7 @@ feature_row:
 <li> <font color="#009933"><b>Benjy Lichman</b></font>, WT rotation PhD student (summer 2012) - Protein binding promiscuity (with Prof. David Moss) </li>
 <li> <font color="#009933"><b>Katie Oliver</b></font>, WT rotation PhD student (summer 2012) - Re-annotation of the Chlamydia proteins (with Dr Richard Hayward) </li>
 <li><font color="#009933"><b>Anna Heddell</b></font>, WT rotation PhD student (winter/spring 2010) - Computational screening for inhibitors of the tuberculosis resuscitation factors (with Prof. Nick Keep)
-<li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li></ul>
+<li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li>
 
 <h2>MSc/MRes alumni</h2>
 <li><font color=#009933"><b>Javier Lopez Segura</b></font> MSc Bioinformatics (2020/21)
@@ -89,9 +91,9 @@ feature_row:
 <li><font color="#009933"><b>Joanne Humphries</b></font>, MSc, BBK (2013) </li>
 <li><font color="#009933"><b>Rob Collins</b></font>, part-time MRes, BBK (2013, 2014) - with Dr Tine Arnvig (UCL)</li>
 <li><font color="#009933"><b>Yolanda Dopico</b></font>, part-time MSc, BBK (2013, 2014)  - with Dr David Prieto-Marino (LSHTM)</li>
-                                <li><font color="#009933"><b>Inbar Levi</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr David Prieto-Marino (LSHTM)</li>
-                                <li><font color="#009933"><b>Kavin Abelak</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr Tine Arnvig (UCL)</li>
-                                <li><font color="#009933"><b>Bojan Cvijan</b></font>, part-time MSc, BBK (2013, 2014) </li>
+<li><font color="#009933"><b>Inbar Levi</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr David Prieto-Marino (LSHTM)</li>
+<li><font color="#009933"><b>Kavin Abelak</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr Tine Arnvig (UCL)</li>
+<li><font color="#009933"><b>Bojan Cvijan</b></font>, part-time MSc, BBK (2013, 2014) </li>
                                 <li><font color="#009933"><b>Sam Coulson</b></font>, full-time MSc, BBK (2013) </li>
                                 <li><font color="#009933"><b>Joe Southan</b></font>, full-time MSc, BBK (2013) </li>
                                 <li><font color="#009933"><b>Andrejus Abrosimovas</b></font>, part-time MSc, BBK (2012,2013) </li>
@@ -105,15 +107,14 @@ feature_row:
                                 <li><font color="#009933"><b>Khaleda Begum</b></font>, MSc, BBK (2010) - with Dr A. Shephe
                                     rd </li>
 <li><font color="#009933"><b>Rosalind Jack</b></font>, MSc, BBK (2010) - with Dr A. Shepherd and Unilever (<i>Metabolic network reconstructions for Malassezia organisms</i>)</li>
-                                <li><font color="#009933"><b>Jonathan Hurwitz</b></font>, part-time MSc, BBK (2008/2009)- first supervisor: Dr A. Shepherd (<i>Life in extreme environments</i>) </li>
-                                <li><font color="#009933"><b>Michael Fox</b></font>, MRes, BBK (2007) - with Dr A. Shepherd ) </li>
-                                <li><font color="#009933"><b>Dimitris Mekras</b></font>, MSc, BBK (2006) - with Dr A. Shepherd metabolome 3d)</li>
-                                <li><font color="#009933"><b>Fatai Ogunlayi</b></font>, MSc, BBK (2006) - with Dr A. Shepherd text mining for protein functions)
-                                    <li><font color="#009933"><b>Ling Zhu</b></font>, MRes, York (2006) - Comparison of cognate and cognate-like ligand interactions in the PDB </li>
-                                </ul>
+<li><font color="#009933"><b>Jonathan Hurwitz</b></font>, part-time MSc, BBK (2008/2009)- first supervisor: Dr A. Shepherd (<i>Life in extreme environments</i>) </li>
+<li><font color="#009933"><b>Michael Fox</b></font>, MRes, BBK (2007) - with Dr A. Shepherd ) </li>
+<li><font color="#009933"><b>Dimitris Mekras</b></font>, MSc, BBK (2006) - with Dr A. Shepherd metabolome 3d)</li>
+<li><font color="#009933"><b>Fatai Ogunlayi</b></font>, MSc, BBK (2006) - with Dr A. Shepherd text mining for protein functions) </li>
+<li><font color="#009933"><b>Ling Zhu</b></font>, MRes, York (2006) - Comparison of cognate and cognate-like ligand interactions in the PDB </li>
+                                
 
 <h2>Interns/Undergraduates</h2>
-                                <ul>
                                     <li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
                                     <li><font color="#009933"><b>Aygoustina Economou</b></font> Summer intern (June/July 2018), undergraduate at King's College London </li>
                                     <li><font color="#009933"><b>Dr Hilary Crowe</b></font>, BBK final year undergraduate (2017/2018)- Trancriptomic signatures of atherosclerosis (with Dr D. Bishop-Bailey, RVC)</li>
@@ -129,5 +130,5 @@ feature_row:
                                     <li><font color="#009933"><b>Jasper Koehorst</b></font>, Masters (Wageningen University, Holland) internship   (March 2012- August 2012) - Metabolic pathways in Chlamydia</li>
   <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Undergraduate internship   (Summer 2011) - Catalytically promiscuous proteins </li>
   <li><font color="#009933"><b>Wei Nee Lim</b></font>, Undergraduate internship   (Summer 2009) - COX/LOX inhibition
-</ul>
+
 
