@@ -14,6 +14,7 @@ feature_row:
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
+feature_row:
   - image_path: NickU.png
     title: "Nick Underhill"
     #url: /people/nich-underhill
@@ -22,6 +23,7 @@ feature_row:
     title: "Munishikha Kalia"
     #url: /people/munishikha-kalia
     excerpt: "Postdoc"
+feature_row:
   - image_path: BolaC.png
     title: "Bolaji Coker"
     #url: /people/bolaji-coker
