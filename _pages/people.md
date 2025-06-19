@@ -16,26 +16,22 @@ feature_row:
     excerpt: "Group Leader"
   - image_path: /images/NickU.png
     title: "Nick Underhill"
-    #url: /people/nick-underhill
+    #url: /people/nich-underhill
     excerpt: "Postdoc"
   - image_path: /images/MuniK.jpg
     title: "Munishikha Kalia"
     #url: /people/munishikha-kalia
     excerpt: "Postdoc"
-  - image_path: /images/ClaireC.jpeg
-    title: "Claire Curel"
-    #url: /people/claire-curel
-    excerpt: "PhD student at the Royal Vet College; First supervisor: Dr Claire Thornton"
   - image_path: /images/BolaC.png
     title: "Bolaji Coker"
     #url: /people/bolaji-coker
-    excerpt: "PhD Student"
-- image_path: /images/HarryB.jpg
+    excerpt: "PhD student"
+  - image_path: /images/HarryB.jpg
     title: "Harry Boutselakis"
     #url: /people/harry-boutselakis
-    excerpt: "PhD Student"
- 
+    excerpt: "PhD student"
 
+ 
 ---
 {% include feature_row %}
 
