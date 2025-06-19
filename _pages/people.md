@@ -14,19 +14,19 @@ feature_row:
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: //images/NickU.png
+  - image_path: NickU.png
     title: "Nick Underhill"
     #url: /people/nich-underhill
     excerpt: "Postdoc"
-  - image_path: //images/MuniK.jpg
+  - image_path: MuniK.jpg
     title: "Munishikha Kalia"
     #url: /people/munishikha-kalia
     excerpt: "Postdoc"
-  - image_path: //images/BolaC.png
+  - image_path: BolaC.png
     title: "Bolaji Coker"
     #url: /people/bolaji-coker
     excerpt: "PhD student"
-  - image_path: //images/HarryB.jpg
+  - image_path: HarryB.jpg
     title: "Harry Boutselakis"
     #url: /people/harry-boutselakis
     excerpt: "PhD student"
