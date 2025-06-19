@@ -41,7 +41,7 @@ feature_row:
 <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Part-time PhD student (2013-2019).  <br> </li>
 <li><font color="#009933"><b>Kavin Abelak</b></font>, Bloomsbury PhD student (2014-2018), first supervisor: <a href="http://www.bishopbailey.org/the-group.html">Dr Bishop-Bailey</a> at the Royal Vet College <br> </li>
 <li> <font color="#009933"><b>Jan Czarnecki </b></font>, BBSRC CASE PhD student (2010-2014; industrial sponsor: Unilever), first supervisor: Dr A. Shepherd - Text mining to facilitate metabolic pathway reconstructions. </li>
-<li><font color="#009933"><b>Anathe Patschull</b></font>, 
+<li><font color="#009933"><b>Anathe Patschull</b></font></li> 
    <ul><li>WT rotation PhD student (autumn 2009) -Computational docking of small molecules to α1-antitrysin (with Dr Bibek Gooptu) <//li><li> WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li>
    </ul>
 <li><font color="#009933"><b>Paul Ashford</b></font>, BBSRC CASE PhD student, BBK (2008/2011) - industrial supervisor: Dr A. Alex (Pfizer Ltd), second academic supervisor: Dr Mark Williams </li>
@@ -59,25 +59,31 @@ feature_row:
 <li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li>
 
 <h2>MSc/MRes alumni</h2>
-<li><font color=#009933"><b>Javier Lopez Segura</b></font> MSc Bioinformatics (2020/21)
-<li><font color=#009933"><b>Laura O'Neill </b></font> MSc Bioinformatics (2020/21)
-<li><font color=#009933"><b>Wing-Kin Chan </b></font> MSc Bioinformatics (2021/22)
-<li><font color=#009933"><b>Manthos Pitoulias</b></font> MSc Bioinformatics (2020/21)
-<li><font color=#009933"><b>Yen Yi Tan</b></font> MSci Applied Medical Sciences, UCL (2019/20)
-<li><font color=#009933"><b>Faizan Shaikh</b></font> MSc Bioinformatics with Systems Biology (2019/20)
-<li><font color=#009933"><b>Laura Phillips</b></font> MSc Bioinformatics with Systems Biology (2019/20)
-<li><font color=#009933"><b>Nini Nguyen</b></font> MSc Bioinformatics with Systems Biology (2019-2021)
-<li><font color=#009933"><b>Michelle Namuyaba</b></font> MSc Bioinformatics with Systems Biology (2019/20)
-<li><font color=#009933"><b>Florence Lai</b></font> MSc Bioinformatics with Systems Biology
-<li><font color=#009933"><b>Emmanuelle Lacotte</b></font> MRes Bioinformatics with Systems Biology (2019-2022)
-<li><font color=#009933"><b>Alessia Boiti</b></font> MSc Bioinformatics with Systems Biology (2019-2021)
-<li><font color=#009933"><b>Safa Anwar</b></font> MSc Bioinformatics with Systems Biology (2018-2020)
-<li><font color=#009933"><b>Chelsea Wescott</b></font> MSc Bioinformatics with Systems Biology (2017-2019)
-<li><font color=#009933"><b>Abdulvahab Kharadi</b></font> MSc Bioinformatics with Systems Biology (2017-2019)
-<li><font color=#009933"><b>Bhavraj Singh Chana</b></font> MSc Bio-business, BBK (2018/2019)
-<li><font color=#009933"><b>Rosanna Joyce</b> </font>MRes Bioinformatics with Systems Biology (2017-2018)<br>
-<li><font color=#009933"><b>Margherita Martorana</b> </font>MSc Bioinformatics with Systems Biology (2017-2018)<br>
-<li><font color=#009933"><b>Alina Ozuna</b> </font>MSc Bioinformatics with Systems Biology (2017-2018)<br>
+<li><font color=#009933"><b>Aswini Sivasankaran</b></font> MSc Bioinformatics (2023/24)</li>
+<li><font color=#009933"><b>Tamara Hill</b></font> MSc Bioinformatics (2022/24)</li>
+<li><font color=#009933"><b>Luke Charalambou</b></font> MSc Bioinformatics (2022/24)</li>
+<li><font color=#009933"><b>Alexander Waters</b></font> MSc Bioinformatics (2022/23)</li>
+<li><font color=#009933"><b>Sarah N'Djomon</b></font> MSc Bioinformatics (2021/23)</li>
+<li><font color=#009933"><b>Javier Lopez Segura</b></font> MSc Bioinformatics (2020/21)</li>
+<li><font color=#009933"><b>Laura O'Neill </b></font> MSc Bioinformatics (2020/21)</li>
+<li><font color=#009933"><b>Amber Hilton </b></font> MSc Bioinformatics (2021)</li>
+<li><font color=#009933"><b>Wing-Kin Chan </b></font> MSc Bioinformatics (2021/22)</li>
+<li><font color=#009933"><b>Manthos Pitoulias</b></font> MSc Bioinformatics (2020/21)</li>
+<li><font color=#009933"><b>Yen Yi Tan</b></font> MSci Applied Medical Sciences, UCL (2019/20)</li>
+<li><font color=#009933"><b>Faizan Shaikh</b></font> MSc Bioinformatics with Systems Biology (2019/20)</li>
+<li><font color=#009933"><b>Laura Phillips</b></font> MSc Bioinformatics with Systems Biology (2019/20)</li>
+<li><font color=#009933"><b>Nini Nguyen</b></font> MSc Bioinformatics with Systems Biology (2019-2021)</li>
+<li><font color=#009933"><b>Michelle Namuyaba</b></font> MSc Bioinformatics with Systems Biology (2019/20)</li>
+<li><font color=#009933"><b>Florence Lai</b></font> MSc Bioinformatics with Systems Biology</li>
+<li><font color=#009933"><b>Emmanuelle Lacotte</b></font> MRes Bioinformatics with Systems Biology (2019-2022)</li>
+<li><font color=#009933"><b>Alessia Boiti</b></font> MSc Bioinformatics with Systems Biology (2019-2021)</li>
+<li><font color=#009933"><b>Safa Anwar</b></font> MSc Bioinformatics with Systems Biology (2018-2020)</li>
+<li><font color=#009933"><b>Chelsea Wescott</b></font> MSc Bioinformatics with Systems Biology (2017-2019)</li>
+<li><font color=#009933"><b>Abdulvahab Kharadi</b></font> MSc Bioinformatics with Systems Biology (2017-2019)</li>
+<li><font color=#009933"><b>Bhavraj Singh Chana</b></font> MSc Bio-business, BBK (2018/2019)</li>
+<li><font color=#009933"><b>Rosanna Joyce</b> </font>MRes Bioinformatics with Systems Biology (2017-2018)<br></li>
+<li><font color=#009933"><b>Margherita Martorana</b> </font>MSc Bioinformatics with Systems Biology (2017-2018)<br></li>
+<li><font color=#009933"><b>Alina Ozuna</b> </font>MSc Bioinformatics with Systems Biology (2017-2018)<br></li>
 <li><font color="#009933"><b>Akash Patel</b></font>, MSc Bio-business, BBK (2017/2019); Digital health in cancer </li>
 <li><font color="#009933"><b>Aine Fairbrother</b></font>, MSc Bioinformatics, BBK (2016/2017, FT)</li>
 <li><font color="#009933"><b>Jenifer Suntharalingham</b></font>, MSc Bio-business, BBK (2016/2017) </li>
