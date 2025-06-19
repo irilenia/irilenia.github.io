@@ -10,23 +10,23 @@ layout: single
 title: "People"
 permalink: /people/
 feature_row:
-  - image_path: /images/IN.jpeg
+  - image_path: //images/IN.jpeg
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: /images/NickU.png
+  - image_path: //images/NickU.png
     title: "Nick Underhill"
     #url: /people/nich-underhill
     excerpt: "Postdoc"
-  - image_path: /images/MuniK.jpg
+  - image_path: //images/MuniK.jpg
     title: "Munishikha Kalia"
     #url: /people/munishikha-kalia
     excerpt: "Postdoc"
-  - image_path: /images/BolaC.png
+  - image_path: //images/BolaC.png
     title: "Bolaji Coker"
     #url: /people/bolaji-coker
     excerpt: "PhD student"
-  - image_path: /images/HarryB.jpg
+  - image_path: //images/HarryB.jpg
     title: "Harry Boutselakis"
     #url: /people/harry-boutselakis
     excerpt: "PhD student"
@@ -54,7 +54,7 @@ feature_row:
 <li><font color="#009933"><b>Florence Thomas</b></font>, WT rotation PhD student (summer 2013) - Virtual screening for polymerisation inhibitors (with Dr Bibek Gooptu) </li>
 <li> <font color="#009933"><b>Benjy Lichman</b></font>, WT rotation PhD student (summer 2012) - Protein binding promiscuity (with Prof. David Moss) </li>
 <li> <font color="#009933"><b>Katie Oliver</b></font>, WT rotation PhD student (summer 2012) - Re-annotation of the Chlamydia proteins (with Dr Richard Hayward) </li>
-<li><font color="#009933"><b>Anna Heddell</b></font>, WT rotation PhD student (winter/spring 2010) - Computational screening for inhibitors of the tuberculosis resuscitation factors (with Prof. Nick Keep)
+<li><font color="#009933"><b>Anna Heddell</b></font>, WT rotation PhD student (winter/spring 2010) - Computational screening for inhibitors of the tuberculosis resuscitation factors (with Prof. Nick Keep)</li>
 <li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li>
 
 <h2>MSc/MRes alumni</h2>
@@ -134,6 +134,6 @@ feature_row:
                                     <li><font color="#009933"><b>Dardan Uka</b></font>, UCL final year undergraduate (literature project) - Alanine racemase in Chlamydia</li>
                                     <li><font color="#009933"><b>Jasper Koehorst</b></font>, Masters (Wageningen University, Holland) internship   (March 2012- August 2012) - Metabolic pathways in Chlamydia</li>
   <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Undergraduate internship   (Summer 2011) - Catalytically promiscuous proteins </li>
-  <li><font color="#009933"><b>Wei Nee Lim</b></font>, Undergraduate internship   (Summer 2009) - COX/LOX inhibition
+  <li><font color="#009933"><b>Wei Nee Lim</b></font>, Undergraduate internship   (Summer 2009) - COX/LOX inhibition</li>
 
 
