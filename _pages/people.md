@@ -10,23 +10,23 @@ layout: single
 title: "People"
 permalink: /people/
 feature_row:
-  - image_path: /assets/images/people/
+  - image_path: /images/people/
     title: "Irilenia Nobeli"
     url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: /assets/images/people/nickU.jpg
+  - image_path: /images/people/nickU.jpg
     title: "Nick Underhill"
     url: /people/nick-underhill
     excerpt: "Postdoc"
-  - image_path: /assets/images/people/muniK.jpg
+  - image_path: /images/people/muniK.jpg
     title: "Munishikha Kalia"
     url: /people/munishikha-kalia
     excerpt: "Postdoc"
-  - image_path: /assets/images/people/harryB.jpg
+  - image_path: /images/people/harryB.jpg
     title: "Harry Boutselakis"
     url: /people/harry-boutselakis
     excerpt: "PhD Student"
-  - image_path: /assets/images/people/bolajiC.png
+  - image_path: /images/people/bolajiC.png
     title: "Bolaji Coker"
     url: /people/bolaji-coker
     excerpt: "PhD Student"
