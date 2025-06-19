@@ -10,11 +10,11 @@ layout: single
 title: "People"
 permalink: /people/
 feature_row:
-  - image_path: /images/people/
+  - image_path: /images/people/IN.png
     title: "Irilenia Nobeli"
     url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: /images/people/NickU.jpg
+  - image_path: /images/people/NickU.png
     title: "Nick Underhill"
     url: /people/nick-underhill
     excerpt: "Postdoc"
