@@ -115,7 +115,6 @@ feature_row:
 <li><font color="#009933"><b>Dimitris Mekras</b></font>, MSc, BBK (2006) - with Dr A. Shepherd metabolome 3d)</li>
 <li><font color="#009933"><b>Fatai Ogunlayi</b></font>, MSc, BBK (2006) - with Dr A. Shepherd text mining for protein functions) </li>
 <li><font color="#009933"><b>Ling Zhu</b></font>, MRes, York (2006) - Comparison of cognate and cognate-like ligand interactions in the PDB </li>
-                                
 
 <h2>Interns/Undergraduates</h2>
 <li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
