@@ -118,20 +118,20 @@ feature_row:
                                 
 
 <h2>Interns/Undergraduates</h2>
-                                    <li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
-                                    <li><font color="#009933"><b>Aygoustina Economou</b></font> Summer intern (June/July 2018), undergraduate at King's College London </li>
-                                    <li><font color="#009933"><b>Dr Hilary Crowe</b></font>, BBK final year undergraduate (2017/2018)- Trancriptomic signatures of atherosclerosis (with Dr D. Bishop-Bailey, RVC)</li>
-                                    <li><font color="#009933"><b>Samantha Thompson</b></font>, intern (2016-) - Circular RNAs</li>
-                                    <li><font color="#009933"><b>Zirui Xu</b></font>, summer intern (2015) - Molecular mechanisms of autism</li>
-                                    <li><font color="#009933"><b>Benjamin Yang</b></font>, summer intern (2015) - Molecular mechanisms of autism</li>
-                                    <li><font color="#009933"><b>Yamuranai Diya</b></font>, BBK final year undergraduate (2015)- </li>
-                                    <li><font color="#009933"><b>Giacomo Proietti</b></font>, six-month Erasmus intern from the University of Perugia (2014) - Simulations of CYP2J2</li>
-                                    <li><font color="#009933"><b>Rima Cesnaitw</b></font>, BBK final year undergraduate (2014) - The link between autism and the immune system</li>
-                                    <li><font color="#009933"><b>Viktoria Kalna</b></font>, summer intern (2014) - Molecular mechanisms of autism</li>
-                                    <li><font color="#009933"><b>Peter Cooke</b></font>, summer intern (2014) - Molecular mechanisms of autism</li>
-                                    <li><font color="#009933"><b>Dardan Uka</b></font>, UCL final year undergraduate (literature project) - Alanine racemase in Chlamydia</li>
-                                    <li><font color="#009933"><b>Jasper Koehorst</b></font>, Masters (Wageningen University, Holland) internship   (March 2012- August 2012) - Metabolic pathways in Chlamydia</li>
-  <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Undergraduate internship   (Summer 2011) - Catalytically promiscuous proteins </li>
-  <li><font color="#009933"><b>Wei Nee Lim</b></font>, Undergraduate internship   (Summer 2009) - COX/LOX inhibition</li>
+<li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
+<li><font color="#009933"><b>Aygoustina Economou</b></font> Summer intern (June/July 2018), undergraduate at King's College London </li>
+<li><font color="#009933"><b>Dr Hilary Crowe</b></font>, BBK final year undergraduate (2017/2018)- Trancriptomic signatures of atherosclerosis (with Dr D. Bishop-Bailey, RVC)</li>
+<li><font color="#009933"><b>Samantha Thompson</b></font>, intern (2016-) - Circular RNAs</li>
+<li><font color="#009933"><b>Zirui Xu</b></font>, summer intern (2015) - Molecular mechanisms of autism</li>
+<li><font color="#009933"><b>Benjamin Yang</b></font>, summer intern (2015) - Molecular mechanisms of autism</li>
+<li><font color="#009933"><b>Yamuranai Diya</b></font>, BBK final year undergraduate (2015)- </li>
+<li><font color="#009933"><b>Giacomo Proietti</b></font>, six-month Erasmus intern from the University of Perugia (2014) - Simulations of CYP2J2</li>
+<li><font color="#009933"><b>Rima Cesnaitw</b></font>, BBK final year undergraduate (2014) - The link between autism and the immune system</li>
+<li><font color="#009933"><b>Viktoria Kalna</b></font>, summer intern (2014) - Molecular mechanisms of autism</li>
+<li><font color="#009933"><b>Peter Cooke</b></font>, summer intern (2014) - Molecular mechanisms of autism</li>
+<li><font color="#009933"><b>Dardan Uka</b></font>, UCL final year undergraduate (literature project) - Alanine racemase in Chlamydia</li>
+<li><font color="#009933"><b>Jasper Koehorst</b></font>, Masters (Wageningen University, Holland) internship   (March 2012- August 2012) - Metabolic pathways in Chlamydia</li>
+<li><font color="#009933"><b>Krzysztof Szkop</b></font>, Undergraduate internship   (Summer 2011) - Catalytically promiscuous proteins </li>
+<li><font color="#009933"><b>Wei Nee Lim</b></font>, Undergraduate internship   (Summer 2009) - COX/LOX inhibition</li>
 
 
