@@ -41,7 +41,7 @@ feature_row:
 <li><font color="#009933"><b>Krzysztof Szkop</b></font>, Part-time PhD student (2013-2019).  <br> </li>
 <li><font color="#009933"><b>Kavin Abelak</b></font>, Bloomsbury PhD student (2014-2018), first supervisor: <a href="http://www.bishopbailey.org/the-group.html">Dr Bishop-Bailey</a> at the Royal Vet College <br> </li>
 <li> <font color="#009933"><b>Jan Czarnecki </b></font>, BBSRC CASE PhD student (2010-2014; industrial sponsor: Unilever), first supervisor: Dr A. Shepherd - Text mining to facilitate metabolic pathway reconstructions. </li>
-<li><font color="#009933"><b>Anathe Patschull</b> WT rotation PhD student (autumn 2009) and WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li>
+<li><font color="#009933"><b>Anathe Patschull</b></font> WT rotation PhD student (autumn 2009) and WT PhD student, (2010/2013) - Computational and experimental studies of riboswitches (first supervisor: Dr Tracey Barrett)</li>
 <li><font color="#009933"><b>Paul Ashford</b></font>, BBSRC CASE PhD student, BBK (2008/2011) - industrial supervisor: Dr A. Alex (Pfizer Ltd), second academic supervisor: Dr Mark Williams </li>
 
 <h2>PhD rotations/others</h2>  
@@ -98,18 +98,17 @@ feature_row:
 <li><font color="#009933"><b>Inbar Levi</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr David Prieto-Marino (LSHTM)</li>
 <li><font color="#009933"><b>Kavin Abelak</b></font>, full-time MRes, BBK (2013, 2014)  - with Dr Tine Arnvig (UCL)</li>
 <li><font color="#009933"><b>Bojan Cvijan</b></font>, part-time MSc, BBK (2013, 2014) </li>
-                                <li><font color="#009933"><b>Sam Coulson</b></font>, full-time MSc, BBK (2013) </li>
-                                <li><font color="#009933"><b>Joe Southan</b></font>, full-time MSc, BBK (2013) </li>
-                                <li><font color="#009933"><b>Andrejus Abrosimovas</b></font>, part-time MSc, BBK (2012,2013) </li>
-                                <li><font color="#009933"><b>Manojit Paul</b></font>, part-time MSc, BBK (2012,2013) </li>
-                                <li><font color="#009933"><b>Paul Golby</b></font>, part-time MSc, BBK (2011,2012) </li>
-                                <li><font color="#009933"><b>Jaytanya Rajachandrasekar</b></font>, MSc, BBK (2011) - with Dr Karen Abraham and Dr A. Shepherd </li>
-                                <li><font color="#009933"><b>Christian Spiteri</b></font>, MSc, BBK (2011) </li>
-                                <li><font color="#009933"><b>Jan Czarnecki</b></font>, part-time MSc, BBK (2010) </li>
-                                <li><font color="#009933"><b>Alice Povia</b></font>, MSc, BBK (2010) - <i>Investigation of surface binding pockets among sets of homologous protein structures </i></li>
-                                <li><font color="#009933"><b>Danai Fimereli</b></font>, MSc, BBK (2010) - <i> </i></li>
-                                <li><font color="#009933"><b>Khaleda Begum</b></font>, MSc, BBK (2010) - with Dr A. Shephe
-                                    rd </li>
+<li><font color="#009933"><b>Sam Coulson</b></font>, full-time MSc, BBK (2013) </li>
+<li><font color="#009933"><b>Joe Southan</b></font>, full-time MSc, BBK (2013) </li>
+<li><font color="#009933"><b>Andrejus Abrosimovas</b></font>, part-time MSc, BBK (2012,2013) </li>
+<li><font color="#009933"><b>Manojit Paul</b></font>, part-time MSc, BBK (2012,2013) </li>
+<li><font color="#009933"><b>Paul Golby</b></font>, part-time MSc, BBK (2011,2012) </li>
+<li><font color="#009933"><b>Jaytanya Rajachandrasekar</b></font>, MSc, BBK (2011) - with Dr Karen Abraham and Dr A. Shepherd </li>
+<li><font color="#009933"><b>Christian Spiteri</b></font>, MSc, BBK (2011) </li>
+<li><font color="#009933"><b>Jan Czarnecki</b></font>, part-time MSc, BBK (2010) </li>
+<li><font color="#009933"><b>Alice Povia</b></font>, MSc, BBK (2010) - <i>Investigation of surface binding pockets among sets of homologous protein structures </i></li>
+<li><font color="#009933"><b>Danai Fimereli</b></font>, MSc, BBK (2010) - <i> </i></li>
+<li><font color="#009933"><b>Khaleda Begum</b></font>, MSc, BBK (2010) - with Dr A. Shepherd </li>
 <li><font color="#009933"><b>Rosalind Jack</b></font>, MSc, BBK (2010) - with Dr A. Shepherd and Unilever (<i>Metabolic network reconstructions for Malassezia organisms</i>)</li>
 <li><font color="#009933"><b>Jonathan Hurwitz</b></font>, part-time MSc, BBK (2008/2009)- first supervisor: Dr A. Shepherd (<i>Life in extreme environments</i>) </li>
 <li><font color="#009933"><b>Michael Fox</b></font>, MRes, BBK (2007) - with Dr A. Shepherd ) </li>
