@@ -35,8 +35,8 @@ feature_row:
 ---
 {% include feature_row %}
 
-<h1> MSc/MRes students </h1>
-<h2> </h2>
+<h1> Current members from taught courses</h1>
+<h2> MSc/MRes students </h2>
 <li><font color="#009933"><b>Lena Przemylska</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Evita Otigbah</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Nathan Langman</b></font> MSc Bioinformatics</li>
