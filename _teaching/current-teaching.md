@@ -11,13 +11,13 @@ location: "London, UK"
 I am currently currently teaching on the following modules:
 
 ** MSc Bioinformatics **
-* Sequence Analysis and Omics (level 7)
++ Sequence Analysis and Omics (level 7)
 
 ** MSc Microbiology/ MSc Astrobiology **
-* Bioinformatics lectures + practicals for The Molecular Basis of Life module (level 7).
++ Bioinformatics lectures + practicals for The Molecular Basis of Life module (level 7).
 
 ** BSc Biomedicine **
-* Bioinformatics lecture + tutorials for the Specialist Laboratory Research Project (SLRP) module (level 6).
++ Bioinformatics lecture + tutorials for the Specialist Laboratory Research Project (SLRP) module (level 6).
 
 
 
