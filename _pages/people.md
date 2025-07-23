@@ -36,6 +36,7 @@ feature_row:
 {% include feature_row %}
 
 <h1> MSc/MRes students </h1>
+<h2> </h2>
 <li><font color="#009933"><b>Lena Przemylska</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Evita Otigbah</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Nathan Langman</b></font> MSc Bioinformatics</li>
@@ -52,6 +53,7 @@ feature_row:
 <li><font color="#009933"><b>David Kinna</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Roberto Bonnelly</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Georgios Tsoukalas</b></font> MSc Bioinformatics</li>
+
 
 <h1>Alumni</h1>
 <h2>Phd alumni</h2>
