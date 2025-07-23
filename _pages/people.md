@@ -35,6 +35,24 @@ feature_row:
 ---
 {% include feature_row %}
 
+<h1> MSc/MRes students </h1>
+<li><font color="#009933"><b>Lena Przemylska</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Evita Otigbah</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Nathan Langman</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Melika Adim</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Beth Hearle</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Eirini Vafeiadi</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Anna Yerkhova</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ieva Ratkeviciute</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ollie Foggitt</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ann-Marie de Sousa</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Helen Woodward</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ridima Thapa</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Alexandra Pacanins Colban</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>David Kinna</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Roberto Bonnelly</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Georgios Tsoukalas</b></font> MSc Bioinformatics</li>
+
 <h1>Alumni</h1>
 <h2>Phd alumni</h2>
 <li><font color="#009933"><b>Jennifer Stiens</b></font>, Bloomsbury Colleges / LIDo PhD student (2020-2024) </li>
@@ -57,6 +75,7 @@ feature_row:
 <li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li>
 
 <h2>MSc/MRes alumni</h2>
+<li><font color="#009933"><b>Eliza Naismith</b></font> MSc Bioinformatics (2024/25)</li>
 <li><font color="#009933"><b>Aswini Sivasankaran</b></font> MSc Bioinformatics (2023/24)</li>
 <li><font color="#009933"><b>Tamara Hill</b></font> MSc Bioinformatics (2022/24)</li>
 <li><font color="#009933"><b>Luke Charalambou</b></font> MSc Bioinformatics (2022/24)</li>
