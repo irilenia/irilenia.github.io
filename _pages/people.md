@@ -136,6 +136,7 @@ feature_row:
 <li><font color="#009933"><b>Ling Zhu</b></font>, MRes, York (2006) - Comparison of cognate and cognate-like ligand interactions in the PDB </li>
 
 <h2>Interns/Undergraduates</h2>
+<li><font color="#009933"><b>Gayatri Namburi</b></font> Summer intern (July 2025), BSc Natural Sciences, Birkbeck</li>
 <li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
 <li><font color="#009933"><b>Aygoustina Economou</b></font> Summer intern (June/July 2018), undergraduate at King's College London </li>
 <li><font color="#009933"><b>Dr Hilary Crowe</b></font>, BBK final year undergraduate (2017/2018)- Trancriptomic signatures of atherosclerosis (with Dr D. Bishop-Bailey, RVC)</li>
