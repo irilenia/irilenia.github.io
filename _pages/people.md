@@ -14,13 +14,9 @@ feature_row:
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: NickU.png
-    title: "Nick Underhill"
-    #url: /people/nich-underhill
-    excerpt: "Postdoc"
-  - image_path: MuniK.jpg
-    title: "Munishikha Kalia"
-    #url: /people/munishikha-kalia
+  - image_path: DaveK.png
+    title: "Dave Kinna"
+    #url: /people/
     excerpt: "Postdoc"
   - image_path: BolaC.png
     title: "Bolaji Coker"
@@ -37,22 +33,21 @@ feature_row:
 
 <h1> Current members from taught courses</h1>
 <h2> MSc/MRes students </h2>
-<li><font color="#009933"><b>Lena Przemylska</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Evita Otigbah</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Nathan Langman</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Joshua Wilson-Addo</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Wobishet Seyfe</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Thomas Quinn</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Melika Adim</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Beth Hearle</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Eirini Vafeiadi</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Anna Yerkhova</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Ieva Ratkeviciute</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Ollie Foggitt</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Ann-Marie de Sousa</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Helen Woodward</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Ridima Thapa</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Alexandra Pacanins Colban</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>David Kinna</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Roberto Bonnelly</b></font> MSc Bioinformatics</li>
-<li><font color="#009933"><b>Georgios Tsoukalas</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Abi Falana</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Richard Vuong</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ilham Abdi</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Suad Mohamed (co-supervised with Dr Nick Underhill)</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Steven Ferriday (co-supervised with Dr Nick Underhill) </b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Chloe Donaghue</b></font> MSc Bioinformatics</li>
+
 
 
 <h1>Alumni</h1>
@@ -77,6 +72,15 @@ feature_row:
 <li><font color="#009933"><b>Jonathan Myles</b></font>, part-time PhD student, BBK (2008) - first supervisor: Dr A. Shepherd </li>
 
 <h2>MSc/MRes alumni</h2>
+<li><font color="#009933"><b>Lena Przemylska</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Evita Otigbah</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Nathan Langman</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Ollie Foggitt</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Helen Woodward</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Alexandra Pacanins Colban</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>David Kinna</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Roberto Bonnelly</b></font> MSc Bioinformatics</li>
+<li><font color="#009933"><b>Georgios Tsoukalas</b></font> MSc Bioinformatics</li>
 <li><font color="#009933"><b>Eliza Naismith</b></font> MSc Bioinformatics (2024/25)</li>
 <li><font color="#009933"><b>Aswini Sivasankaran</b></font> MSc Bioinformatics (2023/24)</li>
 <li><font color="#009933"><b>Tamara Hill</b></font> MSc Bioinformatics (2022/24)</li>
@@ -138,6 +142,7 @@ feature_row:
 <li><font color="#009933"><b>Ling Zhu</b></font>, MRes, York (2006) - Comparison of cognate and cognate-like ligand interactions in the PDB </li>
 
 <h2>Interns/Undergraduates</h2>
+<li><font color="#009933"><b>Yaroslava Stetsenko</b></font> Summer intern (June/July 2026), MSc Bioinformatics, Kyiv School of Economics</li>
 <li><font color="#009933"><b>Gayatri Namburi</b></font> Summer intern (July 2025), BSc Natural Sciences, Birkbeck</li>
 <li><font color="#009933"><b>Zheng Nim</b></font> Summer intern (June/July 2018), undergraduate at UCL</li>
 <li><font color="#009933"><b>Aygoustina Economou</b></font> Summer intern (June/July 2018), undergraduate at King's College London </li>
