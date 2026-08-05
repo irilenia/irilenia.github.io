@@ -14,7 +14,7 @@ feature_row:
     title: "Irilenia Nobeli"
     #url: /people/i-nobeli
     excerpt: "Group Leader"
-  - image_path: DaveK.png
+  - image_path: DaveK.jpeg
     title: "Dave Kinna"
     #url: /people/
     excerpt: "Postdoc"
